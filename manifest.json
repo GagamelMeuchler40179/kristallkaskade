@@ -1,0 +1,19 @@
+{
+  "name": "Kristallkaskade",
+  "short_name": "Kaskade",
+  "description": "Kostenloses, werbefreies Match-3 mit verwandelbaren Spezialsteinen.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a0b33",
+  "theme_color": "#2a1050",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
